@@ -1,0 +1,74 @@
+{
+  // Visit https://aka.ms/tsconfig to read more about this file
+  "compilerOptions": {
+    // File Layout
+    "rootDir": "./src",
+    "outDir": "./dist",
+
+    // Environment Settings
+    // See also https://aka.ms/tsconfig/module
+    "module": "nodenext",
+    "target": "ES2022",
+    
+    
+    // For nodejs:
+    "lib": ["ES2022"],
+    "types": ["node"],
+    // and npm install -D @types/node
+
+    // Other Outputs
+    "sourceMap": true,
+    "declaration": false,
+    "declarationMap": false,
+
+    // Stricter Typechecking Options
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+
+    // Style Options
+    // "noImplicitReturns": true,
+    // "noImplicitOverride": true,
+    // "noUnusedLocals": true,
+    // "noUnusedParameters": true,
+    // "noFallthroughCasesInSwitch": true,
+    // "noPropertyAccessFromIndexSignature": true,
+
+    "moduleResolution": "NodeNext",
+    "strict": true,
+    "jsx": "react-jsx",
+    "isolatedModules": true,
+    "noUncheckedSideEffectImports": true,
+    "moduleDetection": "force",
+    "skipLibCheck": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "esModuleInterop": true,
+    "allowImportingTsExtensions": false,
+    "emitDeclarationOnly": false,
+    "baseUrl": ".",
+    "paths": {
+      // "@input/*": ["src/types/input/*"],
+      // "@object/*": ["src/types/object/*"],
+      // "@repositories/*": ["src/database/repositories/*"],
+     
+      // "@controllers/*": ["src/controllers/*"],
+      // "@middlewares/*": ["src/middlewares/*"],
+      // "@utils/*": ["src/utils/*"],
+      // "@config/*": ["src/app/config/*"],
+      // "@database/*": ["src/database/*"],
+      // "@tests/*": ["src/tests/*"],
+      // "@resolvers/*": ["src/app/graphql/resolvers/*"],
+      // "@entities/*": ["src/entities/*"]
+      "@/*": ["./src/*"],
+    }
+
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules", "dist"],
+  "tsc-alias": {
+    "resolveFullPaths": true
+  },
+  "ts-node": {
+    "esm": true
+  }
+}

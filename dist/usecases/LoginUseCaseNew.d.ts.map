@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "LoginServiceNew.d.ts",
+  "sourceRoot": "",
+  "sources": [
+    "../../src/usecases/LoginServiceNew.ts"
+  ],
+  "names": [],
+  "mappings": "AAAA,OAAO,EAAE,IAAI,EAAE,MAAM,kBAAkB,CAAC;AACxC,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,gCAAgC,CAAC;AAKtE,MAAM,WAAW,WAAW;IAC1B,IAAI,EAAE,IAAI,CAAC;IACX,KAAK,EAAE,MAAM,CAAC;CACf;AAED,qBAAa,YAAY;IACvB,OAAO,CAAC,cAAc,CAAkB;gBAE5B,cAAc,EAAE,eAAe;IAIrC,OAAO,CAAC,QAAQ,EAAE,MAAM,EAAE,QAAQ,EAAE,MAAM,GAAG,OAAO,CAAC,WAAW,CAAC;YA6CzD,aAAa;CAQ5B"
+}

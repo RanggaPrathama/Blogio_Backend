@@ -1,0 +1,112 @@
+[2025-08-19T14:31:24.711Z] INFO: Database connected successfully!
+[2025-08-19T14:31:24.730Z] INFO: Database connected successfully!
+[2025-08-19T14:31:24.861Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T14:32:42.497Z] INFO: Database connected successfully!
+[2025-08-19T14:32:42.497Z] INFO: Database connected successfully!
+[2025-08-19T14:32:42.615Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T14:32:49.662Z] INFO: Database connected successfully!
+[2025-08-19T14:32:49.757Z] INFO: Database connected successfully!
+[2025-08-19T14:32:49.759Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T14:32:51.950Z] INFO: Database connected successfully!
+[2025-08-19T14:32:52.051Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T14:32:52.056Z] INFO: Database connected successfully!
+[2025-08-19T14:33:17.389Z] INFO: Database connected successfully!
+[2025-08-19T14:33:17.389Z] INFO: Database connected successfully!
+[2025-08-19T14:33:17.488Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T14:33:26.899Z] INFO: Database connected successfully!
+[2025-08-19T14:33:26.911Z] INFO: Database connected successfully!
+[2025-08-19T14:33:26.994Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T14:33:29.767Z] INFO: Database connected successfully!
+[2025-08-19T14:33:29.777Z] INFO: Database connected successfully!
+[2025-08-19T14:33:29.863Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T14:33:33.470Z] INFO: Database connected successfully!
+[2025-08-19T14:33:33.476Z] INFO: Database connected successfully!
+[2025-08-19T14:33:33.563Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T14:33:36.103Z] INFO: Database connected successfully!
+[2025-08-19T14:33:36.105Z] INFO: Database connected successfully!
+[2025-08-19T14:33:36.212Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T14:33:40.623Z] INFO: Database connected successfully!
+[2025-08-19T14:33:40.645Z] INFO: Database connected successfully!
+[2025-08-19T14:33:40.717Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T14:33:43.267Z] INFO: Database connected successfully!
+[2025-08-19T14:33:43.290Z] INFO: Database connected successfully!
+[2025-08-19T14:33:43.388Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T14:41:17.158Z] INFO: Database connected successfully!
+[2025-08-19T14:41:17.159Z] INFO: Database connected successfully!
+[2025-08-19T14:41:17.268Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T14:41:17.268Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T14:41:21.142Z] INFO: Database connected successfully!
+[2025-08-19T14:41:21.238Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T14:41:21.251Z] INFO: Database connected successfully!
+[2025-08-19T14:50:40.120Z] INFO: Database connected successfully!
+[2025-08-19T14:50:40.227Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T14:52:45.488Z] INFO: Database connected successfully!
+[2025-08-19T14:52:45.604Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T14:52:52.561Z] INFO: Database connected successfully!
+[2025-08-19T14:52:52.654Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T14:52:57.042Z] INFO: Database connected successfully!
+[2025-08-19T14:52:57.142Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T14:52:59.507Z] INFO: Database connected successfully!
+[2025-08-19T14:52:59.610Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T16:29:25.719Z] INFO: Database connected successfully!
+[2025-08-19T16:29:25.835Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T16:29:44.032Z] INFO: Database connected successfully!
+[2025-08-19T16:29:44.146Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T16:30:05.647Z] INFO: Database connected successfully!
+[2025-08-19T16:30:05.748Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T16:30:25.074Z] INFO: Database connected successfully!
+[2025-08-19T16:30:25.184Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T16:41:33.682Z] INFO: Database connected successfully!
+[2025-08-19T16:41:33.813Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T16:51:14.076Z] INFO: Database connected successfully!
+[2025-08-19T16:51:14.091Z] ERROR: Error starting server | Context: {"error":"Cannot determine GraphQL input type for 'author' of 'ArticleInputType' class. Is the value, that is used as its TS type or explicit type, decorated with a proper decorator or is it a proper input value?"}
+[2025-08-19T16:52:08.671Z] INFO: Database connected successfully!
+[2025-08-19T16:52:08.686Z] ERROR: Error starting server | Context: {"error":"Cannot determine GraphQL input type for 'author' of 'ArticleInputType' class. Is the value, that is used as its TS type or explicit type, decorated with a proper decorator or is it a proper input value?"}
+[2025-08-19T16:52:14.611Z] INFO: Database connected successfully!
+[2025-08-19T16:52:14.627Z] ERROR: Error starting server | Context: {"error":"Cannot determine GraphQL input type for 'authorId' of 'ArticleInputType' class. Is the value, that is used as its TS type or explicit type, decorated with a proper decorator or is it a proper input value?"}
+[2025-08-19T16:52:19.074Z] INFO: Database connected successfully!
+[2025-08-19T16:52:19.084Z] ERROR: Error starting server | Context: {"error":"Cannot determine GraphQL input type for 'authorId' of 'ArticleInputType' class. Is the value, that is used as its TS type or explicit type, decorated with a proper decorator or is it a proper input value?"}
+[2025-08-19T16:52:23.063Z] INFO: Database connected successfully!
+[2025-08-19T16:52:23.074Z] ERROR: Error starting server | Context: {"error":"string is not defined"}
+[2025-08-19T16:52:26.007Z] INFO: Database connected successfully!
+[2025-08-19T16:52:26.117Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T16:53:00.479Z] INFO: Database connected successfully!
+[2025-08-19T16:53:00.582Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T16:53:02.742Z] INFO: Database connected successfully!
+[2025-08-19T16:53:02.849Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T16:57:41.990Z] INFO: Database connected successfully!
+[2025-08-19T16:57:42.096Z] INFO: Server running at http://localhost:4000/graphql
+[2025-08-19T16:58:54.512Z] INFO: Database connected successfully!
+[2025-08-19T16:58:54.614Z] INFO: Server running at http://127.0.0.1:4000/graphql
+[2025-08-19T17:00:22.995Z] INFO: Database connected successfully!
+[2025-08-19T17:00:23.100Z] INFO: Server running at http://127.0.0.1:4000/graphql
+[2025-08-19T17:00:52.153Z] INFO: Database connected successfully!
+[2025-08-19T17:00:52.339Z] INFO: Server running at http://127.0.0.1:4000/graphql
+[2025-08-19T17:01:00.272Z] INFO: Database connected successfully!
+[2025-08-19T17:01:00.406Z] INFO: Server running at http://127.0.0.1:4000/graphql
+[2025-08-19T17:01:07.582Z] INFO: Database connected successfully!
+[2025-08-19T17:01:07.712Z] INFO: Server running at http://127.0.0.1:4000/graphql
+[2025-08-19T17:02:07.674Z] INFO: Database connected successfully!
+[2025-08-19T17:02:07.766Z] INFO: Server running at http://127.0.0.1:4000/graphql
+[2025-08-19T17:02:55.284Z] INFO: Database connected successfully!
+[2025-08-19T17:02:55.381Z] INFO: Server running at http://127.0.0.1:4000/graphql
+[2025-08-19T17:03:49.150Z] INFO: Database connected successfully!
+[2025-08-19T17:03:49.262Z] INFO: Server running at http://127.0.0.1:4000/graphql
+[2025-08-19T17:03:57.946Z] INFO: Database connected successfully!
+[2025-08-19T17:03:58.061Z] ERROR: Error starting server | Context: {"error":"app.use is not a function"}
+[2025-08-19T17:04:00.118Z] INFO: Database connected successfully!
+[2025-08-19T17:04:00.256Z] INFO: Server running at http://127.0.0.1:4000/graphql
+[2025-08-19T17:04:02.763Z] INFO: Database connected successfully!
+[2025-08-19T17:04:02.897Z] INFO: Server running at http://127.0.0.1:4000/graphql
+[2025-08-19T17:04:07.689Z] INFO: Database connected successfully!
+[2025-08-19T17:04:07.799Z] INFO: Server running at http://127.0.0.1:4000/graphql
+[2025-08-19T17:04:11.423Z] INFO: Database connected successfully!
+[2025-08-19T17:04:11.515Z] INFO: Server running at http://127.0.0.1:4000/graphql
+[2025-08-19T17:04:24.835Z] INFO: Database connected successfully!
+[2025-08-19T17:04:24.884Z] INFO: Server running at http://127.0.0.1:4000/graphql
+[2025-08-19T17:04:27.117Z] INFO: Database connected successfully!
+[2025-08-19T17:04:27.219Z] INFO: Server running at http://127.0.0.1:4000/graphql
+[2025-08-19T17:04:37.172Z] INFO: Database connected successfully!
+[2025-08-19T17:04:37.268Z] INFO: Server running at http://127.0.0.1:4000/graphql
+[2025-08-19T17:04:47.153Z] INFO: Database connected successfully!
+[2025-08-19T17:04:47.259Z] INFO: Server running at http://127.0.0.1:4000/graphql

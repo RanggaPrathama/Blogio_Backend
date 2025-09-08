@@ -1,0 +1,705 @@
+[2025-09-01T05:23:23.651Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T05:23:48.256Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T05:37:23.498Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T05:37:26.491Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T05:38:28.275Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T05:38:32.479Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T05:38:41.585Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T05:38:44.799Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T05:39:03.089Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T05:39:15.457Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T05:39:18.242Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T05:39:20.917Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T05:39:25.323Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T05:39:29.514Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T05:39:48.444Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T05:45:02.796Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:11:00.970Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:11:03.221Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:14:11.791Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:15:11.672Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:18:39.488Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:28:05.117Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:28:11.539Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:28:25.470Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:28:34.691Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:28:52.859Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:29:09.503Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:29:15.073Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:29:17.417Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:29:51.277Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:30:04.602Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:30:12.212Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:30:31.628Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:30:53.861Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:31:01.000Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:31:09.440Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:31:11.617Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:31:22.186Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:31:29.690Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:31:48.534Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:31:52.540Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:33:41.894Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:33:44.472Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:33:47.957Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:33:52.965Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:33:57.125Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:34:18.185Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:34:23.589Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:35:41.070Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:35:55.079Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:36:18.827Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:36:27.989Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:36:45.928Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:36:51.486Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:37:00.728Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:37:14.825Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:37:54.006Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:40:27.394Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:41:27.297Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:41:29.433Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:46:46.299Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:46:57.225Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:48:02.611Z] ERROR: Error connecting to the database | Context: {"error":{"query":"ALTER TABLE \"user\" ADD \"username\" character varying(50) NOT NULL","driverError":{"length":144,"name":"error","severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"},"length":144,"severity":"ERROR","code":"23502","schema":"public","table":"user","column":"username","file":"tablecmds.c","line":"6261","routine":"ATRewriteTable"}}
+[2025-09-01T06:54:45.936Z] INFO: Database connected successfully!
+[2025-09-01T06:55:18.484Z] INFO: Database connected successfully!
+[2025-09-01T06:56:09.554Z] INFO: Database connected successfully!
+[2025-09-01T07:02:03.388Z] INFO: Database connected successfully!
+[2025-09-01T07:02:11.500Z] INFO: Database connected successfully!
+[2025-09-01T07:02:22.348Z] INFO: Database connected successfully!
+[2025-09-01T07:02:31.510Z] INFO: Database connected successfully!
+[2025-09-01T07:04:20.008Z] INFO: Database connected successfully!
+[2025-09-01T07:04:23.679Z] INFO: Database connected successfully!
+[2025-09-01T07:04:23.682Z] ERROR: Error connecting to the database | Context: {"error":{}}
+[2025-09-01T07:04:28.394Z] INFO: Database connected successfully!
+[2025-09-01T07:04:47.934Z] INFO: Database connected successfully!
+[2025-09-01T07:04:57.727Z] INFO: Database connected successfully!
+[2025-09-01T07:05:36.375Z] INFO: Database connected successfully!
+[2025-09-01T07:07:54.031Z] INFO: Database connected successfully!
+[2025-09-01T07:08:03.870Z] INFO: Database connected successfully!
+[2025-09-01T07:08:09.619Z] INFO: Database connected successfully!
+[2025-09-01T07:08:17.766Z] INFO: Database connected successfully!
+[2025-09-01T07:08:20.871Z] INFO: Database connected successfully!
+[2025-09-01T07:08:24.010Z] INFO: Database connected successfully!
+[2025-09-01T07:08:26.378Z] INFO: Database connected successfully!
+[2025-09-01T07:08:42.975Z] INFO: Database connected successfully!
+[2025-09-01T07:08:55.805Z] INFO: Database connected successfully!
+[2025-09-01T07:09:25.820Z] INFO: Database connected successfully!
+[2025-09-01T07:09:32.485Z] INFO: Database connected successfully!
+[2025-09-01T07:09:36.672Z] INFO: Database connected successfully!
+[2025-09-01T07:09:46.608Z] INFO: Database connected successfully!
+[2025-09-01T07:09:57.120Z] INFO: Database connected successfully!
+[2025-09-01T07:09:59.579Z] INFO: Database connected successfully!
+[2025-09-01T07:23:39.047Z] INFO: Database connected successfully!
+[2025-09-01T07:27:54.595Z] INFO: Database connected successfully!
+[2025-09-01T07:28:02.522Z] INFO: Database connected successfully!
+[2025-09-01T07:28:09.825Z] INFO: Database connected successfully!
+[2025-09-01T07:28:22.741Z] INFO: Database connected successfully!
+[2025-09-01T07:34:51.817Z] INFO: Database connected successfully!
+[2025-09-01T07:35:05.962Z] INFO: Database connected successfully!
+[2025-09-01T07:35:29.563Z] INFO: Database connected successfully!
+[2025-09-01T07:36:20.223Z] INFO: Database connected successfully!
+[2025-09-01T07:36:24.473Z] INFO: Database connected successfully!
+[2025-09-01T07:36:29.395Z] INFO: Database connected successfully!
+[2025-09-01T07:36:31.815Z] INFO: Database connected successfully!
+[2025-09-01T07:43:10.166Z] INFO: Database connected successfully!
+[2025-09-01T07:43:57.311Z] INFO: Database connected successfully!
+[2025-09-01T07:44:16.855Z] INFO: Database connected successfully!
+[2025-09-01T07:44:40.408Z] INFO: Database connected successfully!
+[2025-09-01T07:45:27.039Z] INFO: Database connected successfully!
+[2025-09-01T07:45:38.098Z] INFO: Database connected successfully!
+[2025-09-01T07:45:47.881Z] INFO: Database connected successfully!
+[2025-09-01T07:45:55.381Z] INFO: Database connected successfully!
+[2025-09-01T07:46:22.774Z] INFO: Database connected successfully!
+[2025-09-01T07:46:26.559Z] INFO: Database connected successfully!
+[2025-09-01T07:46:40.393Z] INFO: Database connected successfully!
+[2025-09-01T07:46:42.922Z] INFO: Database connected successfully!
+[2025-09-01T07:46:47.196Z] INFO: Database connected successfully!
+[2025-09-01T07:47:02.402Z] INFO: Database connected successfully!
+[2025-09-01T07:49:29.431Z] INFO: Database connected successfully!
+[2025-09-01T07:49:41.603Z] INFO: Database connected successfully!
+[2025-09-01T07:49:50.735Z] INFO: Database connected successfully!
+[2025-09-01T07:51:05.186Z] INFO: Database connected successfully!
+[2025-09-01T07:51:30.711Z] INFO: Database connected successfully!
+[2025-09-01T08:22:33.766Z] INFO: Database connected successfully!
+[2025-09-01T08:22:37.915Z] INFO: Database connected successfully!
+[2025-09-01T08:24:46.206Z] INFO: Database connected successfully!
+[2025-09-01T08:24:57.698Z] INFO: Database connected successfully!
+[2025-09-01T08:25:09.988Z] INFO: Database connected successfully!
+[2025-09-01T08:25:13.382Z] INFO: Database connected successfully!
+[2025-09-01T08:25:18.690Z] INFO: Database connected successfully!
+[2025-09-01T08:25:25.782Z] INFO: Database connected successfully!
+[2025-09-01T08:25:31.125Z] INFO: Database connected successfully!
+[2025-09-01T08:25:39.939Z] INFO: Database connected successfully!
+[2025-09-01T08:25:46.332Z] INFO: Database connected successfully!
+[2025-09-01T08:27:05.159Z] INFO: Database connected successfully!
+[2025-09-01T08:28:48.404Z] INFO: Database connected successfully!
+[2025-09-01T08:30:26.769Z] INFO: Database connected successfully!
+[2025-09-01T08:30:37.578Z] INFO: Database connected successfully!
+[2025-09-01T08:30:47.652Z] INFO: Database connected successfully!
+[2025-09-01T08:38:17.128Z] INFO: Database connected successfully!
+[2025-09-01T08:38:39.456Z] INFO: Database connected successfully!
+[2025-09-01T08:38:51.432Z] INFO: Database connected successfully!
+[2025-09-01T08:38:59.024Z] INFO: Database connected successfully!
+[2025-09-01T08:39:04.077Z] INFO: Database connected successfully!
+[2025-09-01T08:39:08.304Z] INFO: Database connected successfully!
+[2025-09-01T08:39:14.661Z] INFO: Database connected successfully!
+[2025-09-01T08:39:21.092Z] INFO: Database connected successfully!
+[2025-09-01T08:39:26.480Z] INFO: Database connected successfully!
+[2025-09-01T08:39:32.805Z] INFO: Database connected successfully!
+[2025-09-01T08:40:20.055Z] INFO: Database connected successfully!
+[2025-09-01T08:40:26.793Z] INFO: Database connected successfully!
+[2025-09-01T08:40:31.875Z] INFO: Database connected successfully!
+[2025-09-01T08:40:37.921Z] INFO: Database connected successfully!
+[2025-09-01T08:40:42.197Z] INFO: Database connected successfully!
+[2025-09-01T08:40:51.275Z] INFO: Database connected successfully!
+[2025-09-01T08:41:02.317Z] INFO: Database connected successfully!
+[2025-09-01T08:42:15.337Z] INFO: Database connected successfully!
+[2025-09-01T08:42:15.485Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:43:46.454Z] INFO: Database connected successfully!
+[2025-09-01T08:43:46.580Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:44:09.880Z] INFO: Database connected successfully!
+[2025-09-01T08:44:09.997Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:44:14.883Z] INFO: Database connected successfully!
+[2025-09-01T08:44:15.006Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:44:20.094Z] INFO: Database connected successfully!
+[2025-09-01T08:44:20.224Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:44:44.994Z] INFO: Database connected successfully!
+[2025-09-01T08:44:45.109Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:44:47.964Z] INFO: Database connected successfully!
+[2025-09-01T08:44:48.087Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:44:53.673Z] INFO: Database connected successfully!
+[2025-09-01T08:44:53.792Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:45:11.005Z] INFO: Database connected successfully!
+[2025-09-01T08:45:11.127Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:45:57.803Z] INFO: Database connected successfully!
+[2025-09-01T08:45:57.939Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:46:03.584Z] INFO: Database connected successfully!
+[2025-09-01T08:46:03.714Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:46:11.987Z] INFO: Database connected successfully!
+[2025-09-01T08:46:12.105Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:47:07.990Z] INFO: Database connected successfully!
+[2025-09-01T08:47:08.121Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:48:19.990Z] INFO: Database connected successfully!
+[2025-09-01T08:48:20.114Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:48:25.382Z] INFO: Database connected successfully!
+[2025-09-01T08:48:29.139Z] INFO: Database connected successfully!
+[2025-09-01T08:48:29.332Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:48:55.675Z] INFO: Database connected successfully!
+[2025-09-01T08:48:55.840Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:49:13.478Z] INFO: Database connected successfully!
+[2025-09-01T08:49:13.592Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:49:17.713Z] INFO: Database connected successfully!
+[2025-09-01T08:49:17.830Z] INFO: Current connections: undefined
+[2025-09-01T08:49:17.831Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:49:32.931Z] INFO: Database connected successfully!
+[2025-09-01T08:49:33.049Z] INFO: Current connections: 0
+[2025-09-01T08:49:33.049Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:50:21.302Z] INFO: Database connected successfully!
+[2025-09-01T08:50:21.426Z] INFO: Current connections: 0
+[2025-09-01T08:50:21.427Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:51:16.101Z] INFO: Database connected successfully!
+[2025-09-01T08:51:16.244Z] INFO: Current connections: 0
+[2025-09-01T08:51:16.245Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:51:22.294Z] INFO: Database connected successfully!
+[2025-09-01T08:51:22.417Z] INFO: Current connections: 0
+[2025-09-01T08:51:22.418Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:51:31.739Z] INFO: Database connected successfully!
+[2025-09-01T08:51:31.855Z] INFO: Current connections: 0
+[2025-09-01T08:51:31.856Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:51:36.285Z] INFO: Database connected successfully!
+[2025-09-01T08:51:36.396Z] INFO: Current connections: 0
+[2025-09-01T08:51:36.397Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:51:52.213Z] INFO: Database connected successfully!
+[2025-09-01T08:51:52.366Z] INFO: Current connections: 0
+[2025-09-01T08:51:52.367Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:51:57.865Z] INFO: Database connected successfully!
+[2025-09-01T08:51:58.013Z] INFO: Current connections: 0
+[2025-09-01T08:51:58.014Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:52:01.974Z] INFO: Database connected successfully!
+[2025-09-01T08:52:09.805Z] INFO: Database connected successfully!
+[2025-09-01T08:52:09.932Z] INFO: Current connections: 0
+[2025-09-01T08:52:09.933Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:52:26.951Z] INFO: Database connected successfully!
+[2025-09-01T08:52:27.068Z] INFO: Current connections: 0
+[2025-09-01T08:52:27.069Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:52:32.971Z] INFO: Database connected successfully!
+[2025-09-01T08:52:33.106Z] INFO: Current connections: 0
+[2025-09-01T08:52:33.107Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:53:00.983Z] INFO: Database connected successfully!
+[2025-09-01T08:53:07.816Z] INFO: Database connected successfully!
+[2025-09-01T08:53:07.939Z] INFO: Current connections: 0
+[2025-09-01T08:53:07.940Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:53:39.578Z] INFO: Database connected successfully!
+[2025-09-01T08:53:47.448Z] INFO: Database connected successfully!
+[2025-09-01T08:53:47.581Z] INFO: Current connections: 0
+[2025-09-01T08:53:47.582Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:54:02.503Z] INFO: Database connected successfully!
+[2025-09-01T08:54:02.645Z] INFO: Current connections: 0
+[2025-09-01T08:54:02.646Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:54:34.292Z] INFO: Database connected successfully!
+[2025-09-01T08:54:34.408Z] INFO: Current connections: 0
+[2025-09-01T08:54:34.409Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:54:53.612Z] INFO: Database connected successfully!
+[2025-09-01T08:54:53.764Z] INFO: Current connections: 0
+[2025-09-01T08:54:53.766Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T08:54:57.818Z] INFO: Database connected successfully!
+[2025-09-01T08:55:06.994Z] INFO: Database connected successfully!
+[2025-09-01T08:55:22.560Z] INFO: Database connected successfully!
+[2025-09-01T09:13:38.697Z] INFO: Database connected successfully!
+[2025-09-01T09:13:38.824Z] INFO: Current connections: 0
+[2025-09-01T09:13:38.825Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:15:45.571Z] INFO: Database connected successfully!
+[2025-09-01T09:15:45.712Z] INFO: Current connections: 0
+[2025-09-01T09:15:45.713Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:18:08.361Z] INFO: Database connected successfully!
+[2025-09-01T09:18:08.498Z] INFO: Current connections: 0
+[2025-09-01T09:18:08.498Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:22:39.846Z] INFO: Database connected successfully!
+[2025-09-01T09:22:39.986Z] INFO: Current connections: 0
+[2025-09-01T09:22:39.987Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:26:32.106Z] INFO: Database connected successfully!
+[2025-09-01T09:26:32.255Z] INFO: Current connections: 0
+[2025-09-01T09:26:32.256Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:26:32.256Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:26:36.537Z] INFO: Database connected successfully!
+[2025-09-01T09:26:36.656Z] INFO: Current connections: 0
+[2025-09-01T09:26:36.657Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:26:36.657Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:26:45.041Z] INFO: Database connected successfully!
+[2025-09-01T09:26:45.187Z] INFO: Current connections: 0
+[2025-09-01T09:26:45.188Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:26:45.189Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:26:50.149Z] INFO: Database connected successfully!
+[2025-09-01T09:26:50.282Z] INFO: Current connections: 0
+[2025-09-01T09:26:50.283Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:26:50.283Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:30:59.312Z] INFO: Database connected successfully!
+[2025-09-01T09:30:59.462Z] INFO: Current connections: 0
+[2025-09-01T09:30:59.463Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:30:59.463Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:31:03.167Z] INFO: Database connected successfully!
+[2025-09-01T09:31:03.294Z] INFO: Current connections: 0
+[2025-09-01T09:31:03.295Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:31:03.295Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:31:07.195Z] INFO: Database connected successfully!
+[2025-09-01T09:31:07.347Z] INFO: Current connections: 0
+[2025-09-01T09:31:07.349Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:31:07.349Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:31:13.730Z] INFO: Database connected successfully!
+[2025-09-01T09:31:16.999Z] INFO: Database connected successfully!
+[2025-09-01T09:31:17.159Z] INFO: Current connections: 0
+[2025-09-01T09:31:17.161Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:31:17.161Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:31:21.037Z] INFO: Database connected successfully!
+[2025-09-01T09:31:21.157Z] INFO: Current connections: 0
+[2025-09-01T09:31:21.158Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:31:21.158Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:31:24.587Z] INFO: Database connected successfully!
+[2025-09-01T09:31:24.701Z] INFO: Current connections: 0
+[2025-09-01T09:31:24.702Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:31:24.702Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:31:44.555Z] INFO: Database connected successfully!
+[2025-09-01T09:31:44.699Z] INFO: Current connections: 0
+[2025-09-01T09:31:44.700Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:31:44.700Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:31:52.222Z] INFO: Database connected successfully!
+[2025-09-01T09:31:52.341Z] INFO: Current connections: 0
+[2025-09-01T09:31:52.342Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:31:52.342Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:32:02.202Z] INFO: Database connected successfully!
+[2025-09-01T09:32:02.338Z] INFO: Current connections: 0
+[2025-09-01T09:32:02.339Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:32:02.339Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:32:33.825Z] INFO: Database connected successfully!
+[2025-09-01T09:32:33.948Z] INFO: Current connections: 0
+[2025-09-01T09:32:33.949Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:32:33.949Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:32:38.222Z] INFO: Database connected successfully!
+[2025-09-01T09:32:38.355Z] INFO: Current connections: 0
+[2025-09-01T09:32:38.356Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:32:38.356Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:32:50.469Z] INFO: Database connected successfully!
+[2025-09-01T09:32:50.603Z] INFO: Current connections: 0
+[2025-09-01T09:32:50.604Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:32:50.604Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:33:04.682Z] INFO: Database connected successfully!
+[2025-09-01T09:33:04.814Z] INFO: Current connections: 0
+[2025-09-01T09:33:04.815Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:33:04.815Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:34:36.294Z] INFO: Database connected successfully!
+[2025-09-01T09:34:36.418Z] INFO: Current connections: 0
+[2025-09-01T09:34:36.419Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:34:36.419Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:34:42.708Z] INFO: Database connected successfully!
+[2025-09-01T09:34:42.831Z] INFO: Current connections: 0
+[2025-09-01T09:34:42.832Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:34:42.833Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:35:06.503Z] INFO: Database connected successfully!
+[2025-09-01T09:35:06.637Z] INFO: Current connections: 0
+[2025-09-01T09:35:06.637Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:35:06.638Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:35:09.427Z] INFO: Database connected successfully!
+[2025-09-01T09:35:09.547Z] INFO: Current connections: 0
+[2025-09-01T09:35:09.548Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:35:09.548Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:35:28.260Z] INFO: Database connected successfully!
+[2025-09-01T09:35:28.389Z] INFO: Current connections: 0
+[2025-09-01T09:35:28.390Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:35:28.391Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:35:56.308Z] INFO: Database connected successfully!
+[2025-09-01T09:35:56.420Z] INFO: Current connections: 0
+[2025-09-01T09:35:56.421Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:35:56.421Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:36:28.190Z] INFO: Database connected successfully!
+[2025-09-01T09:36:28.320Z] INFO: Current connections: 0
+[2025-09-01T09:36:28.321Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:36:28.321Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:36:42.349Z] INFO: Database connected successfully!
+[2025-09-01T09:36:42.481Z] INFO: Current connections: 0
+[2025-09-01T09:36:42.482Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:36:42.483Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:36:49.638Z] INFO: Database connected successfully!
+[2025-09-01T09:36:49.758Z] INFO: Current connections: 0
+[2025-09-01T09:36:49.759Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:36:49.759Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:36:57.549Z] INFO: Database connected successfully!
+[2025-09-01T09:36:57.678Z] INFO: Current connections: 0
+[2025-09-01T09:36:57.679Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:36:57.679Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:37:55.621Z] INFO: Database connected successfully!
+[2025-09-01T09:37:55.769Z] INFO: Current connections: 0
+[2025-09-01T09:37:55.770Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:37:55.770Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:38:01.230Z] INFO: Database connected successfully!
+[2025-09-01T09:38:01.345Z] INFO: Current connections: 0
+[2025-09-01T09:38:01.346Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:38:01.347Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:38:16.093Z] INFO: Database connected successfully!
+[2025-09-01T09:38:16.206Z] INFO: Current connections: 0
+[2025-09-01T09:38:16.207Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:38:16.208Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:38:34.708Z] INFO: Database connected successfully!
+[2025-09-01T09:38:34.835Z] INFO: Current connections: 0
+[2025-09-01T09:38:34.836Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:38:34.836Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:38:47.590Z] INFO: Database connected successfully!
+[2025-09-01T09:38:47.732Z] INFO: Current connections: 0
+[2025-09-01T09:38:47.734Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:38:47.734Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:39:15.303Z] INFO: Database connected successfully!
+[2025-09-01T09:39:15.430Z] INFO: Current connections: 0
+[2025-09-01T09:39:15.431Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:39:15.431Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:39:27.318Z] INFO: Database connected successfully!
+[2025-09-01T09:39:27.443Z] INFO: Current connections: 0
+[2025-09-01T09:39:27.444Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:39:27.444Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:39:35.664Z] INFO: Database connected successfully!
+[2025-09-01T09:39:35.789Z] INFO: Current connections: 0
+[2025-09-01T09:39:35.790Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:39:35.791Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:39:44.943Z] INFO: Database connected successfully!
+[2025-09-01T09:39:45.074Z] INFO: Current connections: 0
+[2025-09-01T09:39:45.075Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:39:45.075Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:39:50.696Z] INFO: Database connected successfully!
+[2025-09-01T09:39:50.808Z] INFO: Current connections: 0
+[2025-09-01T09:39:50.810Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:39:50.810Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:39:57.155Z] INFO: Database connected successfully!
+[2025-09-01T09:39:57.269Z] INFO: Current connections: 0
+[2025-09-01T09:39:57.270Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:39:57.270Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:40:45.017Z] INFO: Database connected successfully!
+[2025-09-01T09:40:45.139Z] INFO: Server running at http://localhost:4000/graphql
+[2025-09-01T09:40:45.139Z] INFO: Current NODE_ENV: development
+[2025-09-01T09:41:42.699Z] INFO: Database connected successfully!
+[2025-09-01T09:41:58.978Z] INFO: Database connected successfully!
+[2025-09-01T09:42:05.713Z] INFO: Database connected successfully!
+[2025-09-01T09:42:20.253Z] INFO: Database connected successfully!
+[2025-09-01T09:42:24.178Z] INFO: Database connected successfully!
+[2025-09-01T09:42:31.720Z] INFO: Database connected successfully!
+[2025-09-01T09:43:28.113Z] INFO: Database connected successfully!
+[2025-09-01T09:43:32.456Z] INFO: Database connected successfully!
+[2025-09-01T09:43:46.099Z] INFO: Database connected successfully!
+[2025-09-01T09:43:49.157Z] INFO: Database connected successfully!
+[2025-09-01T09:44:02.565Z] INFO: Database connected successfully!
+[2025-09-01T09:44:12.100Z] INFO: Database connected successfully!
+[2025-09-01T09:44:19.626Z] INFO: Database connected successfully!
+[2025-09-01T09:44:48.429Z] INFO: Database connected successfully!
+[2025-09-01T09:44:56.132Z] INFO: Database connected successfully!
+[2025-09-01T09:45:00.067Z] INFO: Database connected successfully!
+[2025-09-01T09:45:26.339Z] INFO: Database connected successfully!
+[2025-09-01T09:45:38.141Z] INFO: Database connected successfully!
+[2025-09-01T09:45:44.335Z] INFO: Database connected successfully!
+[2025-09-01T09:45:52.086Z] INFO: Database connected successfully!
+[2025-09-01T09:46:01.962Z] INFO: Database connected successfully!
+[2025-09-01T09:46:06.430Z] INFO: Database connected successfully!
+[2025-09-01T09:46:24.891Z] INFO: Database connected successfully!
+[2025-09-01T09:46:30.097Z] INFO: Database connected successfully!
+[2025-09-01T09:46:52.130Z] INFO: Database connected successfully!
+[2025-09-01T09:47:28.816Z] INFO: Database connected successfully!
+[2025-09-01T09:47:57.366Z] INFO: Database connected successfully!
+[2025-09-01T09:48:12.628Z] INFO: Database connected successfully!
+[2025-09-01T09:48:30.831Z] INFO: Database connected successfully!
+[2025-09-01T09:48:46.044Z] INFO: Database connected successfully!
+[2025-09-01T09:50:25.807Z] INFO: Database connected successfully!
+[2025-09-01T09:51:49.650Z] INFO: Database connected successfully!
+[2025-09-01T09:52:15.643Z] INFO: Database connected successfully!
+[2025-09-01T09:52:20.474Z] INFO: Database connected successfully!
+[2025-09-01T09:52:29.569Z] INFO: Database connected successfully!
+[2025-09-01T09:52:39.783Z] INFO: Database connected successfully!
+[2025-09-01T09:52:48.026Z] INFO: Database connected successfully!
+[2025-09-01T09:52:51.426Z] INFO: Database connected successfully!
+[2025-09-01T09:52:57.760Z] INFO: Database connected successfully!
+[2025-09-01T09:53:05.759Z] INFO: Database connected successfully!
+[2025-09-01T09:53:21.619Z] INFO: Database connected successfully!
+[2025-09-01T09:53:42.142Z] INFO: Database connected successfully!
+[2025-09-01T09:53:56.583Z] INFO: Database connected successfully!
+[2025-09-01T09:54:04.573Z] INFO: Database connected successfully!
+[2025-09-01T09:54:11.727Z] INFO: Database connected successfully!
+[2025-09-01T09:54:16.429Z] INFO: Database connected successfully!
+[2025-09-01T09:54:36.282Z] INFO: Database connected successfully!
+[2025-09-01T09:54:41.628Z] INFO: Database connected successfully!
+[2025-09-01T09:54:45.141Z] INFO: Database connected successfully!
+[2025-09-01T09:54:48.907Z] INFO: Database connected successfully!
+[2025-09-01T09:55:31.984Z] INFO: Database connected successfully!
+[2025-09-01T09:55:51.438Z] INFO: Database connected successfully!
+[2025-09-01T09:57:50.391Z] INFO: Database connected successfully!
+[2025-09-01T09:58:22.750Z] INFO: Database connected successfully!
+[2025-09-01T09:58:53.810Z] INFO: Database connected successfully!
+[2025-09-01T10:00:03.688Z] INFO: Database connected successfully!
+[2025-09-01T10:01:53.533Z] INFO: Database connected successfully!
+[2025-09-01T10:02:15.874Z] INFO: Database connected successfully!
+[2025-09-01T10:04:46.239Z] INFO: Database connected successfully!
+[2025-09-01T10:11:39.408Z] INFO: Database connected successfully!
+[2025-09-01T10:11:48.386Z] INFO: Database connected successfully!
+[2025-09-01T10:13:00.903Z] INFO: Database connected successfully!
+[2025-09-01T10:13:18.750Z] INFO: Database connected successfully!
+[2025-09-01T10:13:57.744Z] INFO: Database connected successfully!
+[2025-09-01T10:14:03.640Z] INFO: Database connected successfully!
+[2025-09-01T10:14:45.520Z] INFO: Database connected successfully!
+[2025-09-01T10:16:11.433Z] INFO: Database connected successfully!
+[2025-09-01T10:18:18.425Z] INFO: Database connected successfully!
+[2025-09-01T10:18:27.692Z] INFO: Database connected successfully!
+[2025-09-01T10:18:43.177Z] INFO: Database connected successfully!
+[2025-09-01T10:19:02.181Z] INFO: Database connected successfully!
+[2025-09-01T10:19:34.336Z] INFO: Database connected successfully!
+[2025-09-01T10:20:02.858Z] INFO: Database connected successfully!
+[2025-09-01T10:20:17.396Z] INFO: Database connected successfully!
+[2025-09-01T10:20:58.673Z] INFO: Database connected successfully!
+[2025-09-01T10:21:01.447Z] INFO: Database connected successfully!
+[2025-09-01T10:21:08.893Z] INFO: Database connected successfully!
+[2025-09-01T10:21:19.179Z] ERROR: Error creating user | Context: {"error":{},"userData":{"email":"rangga@gmail.com","password":"[HIDDEN]","username":"s"}}
+[2025-09-01T10:22:08.148Z] INFO: Database connected successfully!
+[2025-09-01T10:22:11.489Z] INFO: Database connected successfully!
+[2025-09-01T10:22:21.512Z] INFO: Database connected successfully!
+[2025-09-01T10:22:27.864Z] INFO: Database connected successfully!
+[2025-09-01T10:22:36.989Z] INFO: Database connected successfully!
+[2025-09-01T10:22:48.331Z] INFO: Database connected successfully!
+[2025-09-01T10:22:50.051Z] ERROR: Error creating user | Context: {"error":{},"userData":{"email":"rangga@gmail.com","password":"[HIDDEN]","username":"s"}}
+[2025-09-01T10:23:35.190Z] INFO: Database connected successfully!
+[2025-09-01T10:23:55.937Z] INFO: Database connected successfully!
+[2025-09-01T10:23:57.081Z] ERROR: Error creating user | Context: {"error":{},"userData":{"email":"rangga@gmail.com","password":"[HIDDEN]","username":"s"}}
+[2025-09-01T10:24:03.639Z] ERROR: Error creating user | Context: {"error":{},"userData":{"email":"rangga@gmail.com","password":"[HIDDEN]","username":"s"}}
+[2025-09-01T10:24:20.233Z] INFO: Database connected successfully!
+[2025-09-01T10:25:02.886Z] INFO: Database connected successfully!
+[2025-09-01T10:25:40.368Z] INFO: Database connected successfully!
+[2025-09-01T10:25:49.262Z] INFO: Database connected successfully!
+[2025-09-01T10:26:10.396Z] INFO: Database connected successfully!
+[2025-09-01T10:26:20.667Z] INFO: Database connected successfully!
+[2025-09-01T10:26:40.148Z] ERROR: Error creating user | Context: {"error":{},"userData":{"email":"rangga@gmail.com","password":"[HIDDEN]","username":"tes123"}}
+[2025-09-01T10:27:35.432Z] INFO: Database connected successfully!
+[2025-09-01T10:27:50.463Z] ERROR: Error creating user | Context: {"error":{},"userData":{"email":"rangga@gmail.com","password":"[HIDDEN]","username":"tes123"}}
+[2025-09-01T10:28:30.147Z] INFO: Database connected successfully!
+[2025-09-01T10:28:37.814Z] INFO: Database connected successfully!
+[2025-09-01T10:28:41.962Z] ERROR: Error creating user | Context: {"error":{},"userData":{"email":"rangga@gmail.com","password":"[HIDDEN]","username":"tes123"}}
+[2025-09-01T10:29:25.830Z] INFO: Database connected successfully!
+[2025-09-01T10:29:27.349Z] ERROR: Error creating user | Context: {"error":{},"userData":{"email":"rangga@gmail.com","password":"[HIDDEN]","username":"tes123"}}
+[2025-09-01T10:30:14.293Z] INFO: Database connected successfully!
+[2025-09-01T10:30:35.847Z] INFO: Database connected successfully!
+[2025-09-01T10:32:00.029Z] INFO: Database connected successfully!
+[2025-09-01T10:35:46.468Z] INFO: Database connected successfully!
+[2025-09-01T10:35:50.806Z] INFO: Database connected successfully!
+[2025-09-01T10:35:54.379Z] INFO: Database connected successfully!
+[2025-09-01T10:35:57.848Z] INFO: Database connected successfully!
+[2025-09-01T10:36:03.287Z] INFO: Database connected successfully!
+[2025-09-01T10:36:11.906Z] INFO: Database connected successfully!
+[2025-09-01T10:36:17.619Z] INFO: Database connected successfully!
+[2025-09-01T10:36:28.021Z] INFO: Database connected successfully!
+[2025-09-01T10:36:32.530Z] INFO: Database connected successfully!
+[2025-09-01T10:36:41.065Z] INFO: Database connected successfully!
+[2025-09-01T10:38:31.401Z] INFO: Database connected successfully!
+[2025-09-01T10:38:41.725Z] INFO: Database connected successfully!
+[2025-09-01T10:38:44.091Z] INFO: Database connected successfully!
+[2025-09-01T10:38:56.576Z] INFO: Database connected successfully!
+[2025-09-01T10:40:02.604Z] INFO: Database connected successfully!
+[2025-09-01T10:40:08.113Z] INFO: Database connected successfully!
+[2025-09-01T10:40:24.755Z] INFO: Database connected successfully!
+[2025-09-01T10:40:51.213Z] INFO: Database connected successfully!
+[2025-09-01T10:40:54.739Z] INFO: Database connected successfully!
+[2025-09-01T10:40:59.489Z] INFO: Database connected successfully!
+[2025-09-01T10:41:03.207Z] INFO: Database connected successfully!
+[2025-09-01T10:41:12.360Z] INFO: Database connected successfully!
+[2025-09-01T10:41:17.956Z] INFO: Database connected successfully!
+[2025-09-01T10:41:24.297Z] INFO: Database connected successfully!
+[2025-09-01T10:41:38.148Z] INFO: Database connected successfully!
+[2025-09-01T10:41:42.664Z] ERROR: Error creating user | Context: {"error":"this.userRepository.findByUsername is not a function","userData":{"email":"rangga@gmail.com","password":"[HIDDEN]","username":"tes123"}}
+[2025-09-01T10:42:16.816Z] INFO: Database connected successfully!
+[2025-09-01T10:42:57.170Z] INFO: Database connected successfully!
+[2025-09-01T10:43:07.025Z] INFO: Database connected successfully!
+[2025-09-01T10:43:26.918Z] INFO: Database connected successfully!
+[2025-09-01T10:43:32.654Z] INFO: Database connected successfully!
+[2025-09-01T10:43:53.235Z] INFO: Database connected successfully!
+[2025-09-01T10:44:02.558Z] INFO: Database connected successfully!
+[2025-09-01T10:44:26.917Z] INFO: Database connected successfully!
+[2025-09-01T10:44:57.926Z] INFO: Database connected successfully!
+[2025-09-01T10:45:00.928Z] INFO: Database connected successfully!
+[2025-09-01T10:45:33.190Z] INFO: Database connected successfully!
+[2025-09-01T10:45:37.675Z] INFO: Database connected successfully!
+[2025-09-01T10:45:53.388Z] INFO: Database connected successfully!
+[2025-09-01T10:46:35.074Z] INFO: Database connected successfully!
+[2025-09-01T10:46:41.906Z] INFO: Database connected successfully!
+[2025-09-01T10:47:17.063Z] INFO: Database connected successfully!
+[2025-09-01T10:47:45.807Z] INFO: Database connected successfully!
+[2025-09-01T10:48:07.516Z] ERROR: Error creating user | Context: {"error":"No metadata for \"User\" was found.","userData":{"email":"rangga@gmail.com","password":"[HIDDEN]","username":"tes123"}}
+[2025-09-01T10:48:41.117Z] INFO: Database connected successfully!
+[2025-09-01T10:48:47.166Z] INFO: Database connected successfully!
+[2025-09-01T10:48:51.067Z] INFO: Database connected successfully!
+[2025-09-01T16:03:57.419Z] INFO: Database connected successfully!
+[2025-09-01T16:34:32.797Z] INFO: Database connected successfully!
+[2025-09-01T16:34:55.296Z] INFO: Database connected successfully!
+[2025-09-01T16:35:03.339Z] INFO: Database connected successfully!
+[2025-09-01T16:51:13.272Z] INFO: Database connected successfully!
+[2025-09-01T16:51:28.341Z] INFO: Database connected successfully!
+[2025-09-01T16:51:40.741Z] INFO: Database connected successfully!
+[2025-09-01T16:51:46.802Z] INFO: Database connected successfully!
+[2025-09-01T16:51:53.408Z] INFO: Database connected successfully!
+[2025-09-01T16:52:01.260Z] INFO: Database connected successfully!
+[2025-09-01T16:52:06.036Z] INFO: Database connected successfully!
+[2025-09-01T17:06:19.412Z] INFO: Database connected successfully!
+[2025-09-01T17:06:26.489Z] INFO: Database connected successfully!
+[2025-09-01T17:06:29.606Z] INFO: Database connected successfully!
+[2025-09-01T17:06:53.101Z] INFO: Database connected successfully!
+[2025-09-01T17:06:59.063Z] INFO: Database connected successfully!
+[2025-09-01T17:27:18.130Z] INFO: Database connected successfully!
+[2025-09-01T17:28:37.279Z] INFO: Database connected successfully!
+[2025-09-01T17:30:15.872Z] INFO: Database connected successfully!
+[2025-09-01T17:32:58.777Z] INFO: Database connected successfully!
+[2025-09-01T17:33:02.452Z] INFO: Database connected successfully!
+[2025-09-01T17:33:43.647Z] INFO: Database connected successfully!
+[2025-09-01T17:33:52.630Z] INFO: Database connected successfully!
+[2025-09-01T17:34:02.373Z] INFO: Database connected successfully!
+[2025-09-01T17:34:04.883Z] INFO: Database connected successfully!
+[2025-09-01T17:34:14.020Z] INFO: Database connected successfully!
+[2025-09-01T17:34:23.409Z] INFO: Database connected successfully!
+[2025-09-01T17:35:31.546Z] INFO: Database connected successfully!
+[2025-09-01T17:35:47.788Z] INFO: Database connected successfully!
+[2025-09-01T17:35:52.350Z] INFO: Database connected successfully!
+[2025-09-01T17:36:07.806Z] INFO: Database connected successfully!
+[2025-09-01T18:20:54.543Z] INFO: Database connected successfully!
+[2025-09-01T18:21:11.601Z] INFO: Database connected successfully!
+[2025-09-01T18:21:17.174Z] INFO: Database connected successfully!
+[2025-09-01T18:21:29.324Z] INFO: Database connected successfully!
+[2025-09-01T18:21:35.477Z] INFO: Database connected successfully!
+[2025-09-01T18:21:44.713Z] INFO: Database connected successfully!
+[2025-09-01T18:21:54.034Z] INFO: Database connected successfully!
+[2025-09-01T18:21:56.823Z] INFO: Database connected successfully!
+[2025-09-01T18:22:10.168Z] INFO: Database connected successfully!
+[2025-09-01T18:22:13.145Z] INFO: Database connected successfully!
+[2025-09-01T18:22:21.706Z] INFO: Database connected successfully!
+[2025-09-01T18:22:25.951Z] INFO: Database connected successfully!
+[2025-09-01T18:22:41.755Z] INFO: Database connected successfully!
+[2025-09-01T18:22:49.241Z] INFO: Database connected successfully!
+[2025-09-01T18:22:51.556Z] INFO: Database connected successfully!
+[2025-09-01T18:23:17.542Z] INFO: Database connected successfully!
+[2025-09-01T18:23:24.685Z] INFO: Database connected successfully!
+[2025-09-01T18:24:14.657Z] INFO: Database connected successfully!
+[2025-09-01T18:24:19.989Z] INFO: Database connected successfully!
+[2025-09-01T18:24:30.326Z] INFO: Database connected successfully!
+[2025-09-01T18:24:43.035Z] INFO: Database connected successfully!
+[2025-09-01T18:24:50.170Z] INFO: Database connected successfully!
+[2025-09-01T18:25:19.553Z] INFO: Database connected successfully!
+[2025-09-01T18:25:34.315Z] INFO: Database connected successfully!
+[2025-09-01T18:25:48.422Z] INFO: Database connected successfully!
+[2025-09-01T18:25:55.281Z] INFO: Database connected successfully!
+[2025-09-01T18:26:10.984Z] INFO: Database connected successfully!
+[2025-09-01T18:26:33.490Z] INFO: Database connected successfully!
+[2025-09-01T18:26:40.114Z] INFO: Database connected successfully!
+[2025-09-01T18:26:44.565Z] INFO: Database connected successfully!
+[2025-09-01T18:30:06.945Z] INFO: Database connected successfully!
+[2025-09-01T18:30:13.124Z] INFO: Database connected successfully!
+[2025-09-01T18:30:21.724Z] INFO: Database connected successfully!
+[2025-09-01T18:31:34.445Z] INFO: Database connected successfully!
+[2025-09-01T18:31:45.749Z] INFO: Database connected successfully!
+[2025-09-01T18:31:49.764Z] INFO: Database connected successfully!
+[2025-09-01T18:31:54.087Z] INFO: Database connected successfully!
+[2025-09-01T18:44:29.403Z] INFO: Database connected successfully!
+[2025-09-01T18:45:43.948Z] INFO: Database connected successfully!
+[2025-09-01T18:46:04.466Z] INFO: Database connected successfully!
+[2025-09-01T18:46:42.009Z] INFO: Database connected successfully!
+[2025-09-01T18:48:16.873Z] INFO: Database connected successfully!
+[2025-09-01T18:48:59.747Z] INFO: Database connected successfully!
+[2025-09-01T18:49:25.288Z] INFO: Database connected successfully!
+[2025-09-01T18:49:30.491Z] INFO: Database connected successfully!
+[2025-09-01T18:49:34.338Z] INFO: Database connected successfully!
+[2025-09-01T18:49:54.044Z] INFO: Database connected successfully!
+[2025-09-01T18:49:58.368Z] INFO: Database connected successfully!
+[2025-09-01T18:50:05.443Z] INFO: Database connected successfully!
+[2025-09-01T18:50:13.814Z] INFO: Database connected successfully!
+[2025-09-01T18:50:26.021Z] INFO: Database connected successfully!
+[2025-09-01T18:51:04.216Z] INFO: Database connected successfully!
+[2025-09-01T18:51:16.582Z] INFO: Database connected successfully!
+[2025-09-01T18:51:24.890Z] INFO: Database connected successfully!
+[2025-09-01T18:51:38.988Z] INFO: Database connected successfully!
+[2025-09-01T18:51:48.036Z] INFO: Database connected successfully!
+[2025-09-01T18:52:00.622Z] INFO: Database connected successfully!
+[2025-09-01T18:52:18.653Z] INFO: Database connected successfully!
+[2025-09-01T18:52:50.871Z] INFO: Database connected successfully!
+[2025-09-01T18:52:59.622Z] INFO: Database connected successfully!
+[2025-09-01T18:53:05.650Z] INFO: Database connected successfully!
+[2025-09-01T18:53:23.351Z] INFO: Database connected successfully!
+[2025-09-01T18:54:27.960Z] INFO: Database connected successfully!
+[2025-09-01T18:54:45.166Z] INFO: Database connected successfully!
+[2025-09-01T18:54:50.108Z] INFO: Database connected successfully!
+[2025-09-01T18:54:56.660Z] INFO: Database connected successfully!
+[2025-09-01T18:55:18.218Z] INFO: Database connected successfully!
+[2025-09-01T18:55:30.381Z] INFO: Database connected successfully!
+[2025-09-01T18:55:38.752Z] INFO: Database connected successfully!
+[2025-09-01T18:55:42.267Z] INFO: Database connected successfully!
+[2025-09-01T18:55:46.329Z] INFO: Database connected successfully!
+[2025-09-01T18:55:55.905Z] INFO: Database connected successfully!
+[2025-09-01T18:56:00.555Z] INFO: Database connected successfully!
+[2025-09-01T18:56:10.007Z] INFO: Database connected successfully!
+[2025-09-01T18:56:36.430Z] INFO: Database connected successfully!
+[2025-09-01T18:56:42.916Z] INFO: Database connected successfully!
+[2025-09-01T18:56:59.253Z] INFO: Database connected successfully!
+[2025-09-01T18:57:12.339Z] INFO: Database connected successfully!
+[2025-09-01T18:57:36.740Z] INFO: Database connected successfully!
+[2025-09-01T18:57:45.416Z] INFO: Database connected successfully!
+[2025-09-01T18:57:59.153Z] INFO: Database connected successfully!
+[2025-09-01T18:58:42.219Z] INFO: Database connected successfully!
+[2025-09-01T18:59:30.391Z] INFO: Database connected successfully!
+[2025-09-01T18:59:38.166Z] INFO: Database connected successfully!
+[2025-09-01T19:00:12.227Z] ERROR: [RESOLVER] Unexpected error | Context: {"error":"this.LoginService.execute is not a function"}
+[2025-09-01T19:00:43.547Z] INFO: Database connected successfully!
+[2025-09-01T19:00:46.541Z] INFO: Database connected successfully!
+[2025-09-01T19:00:53.064Z] INFO: Database connected successfully!
+[2025-09-01T19:01:15.638Z] INFO: Database connected successfully!
+[2025-09-01T19:01:31.105Z] INFO: Database connected successfully!
+[2025-09-01T19:01:36.042Z] INFO: Database connected successfully!
+[2025-09-01T19:01:41.070Z] INFO: Database connected successfully!
+[2025-09-01T19:01:47.966Z] INFO: Database connected successfully!
+[2025-09-01T19:01:51.843Z] INFO: [USE_CASE] Login successful | Context: {"userId":"d4c505ca-748a-4b23-9e2b-0e1373142682","email":"rangga@gmail.com"}
+[2025-09-01T19:02:14.385Z] INFO: Database connected successfully!
+[2025-09-01T19:02:21.048Z] INFO: [USE_CASE] Login successful | Context: {"userId":"d4c505ca-748a-4b23-9e2b-0e1373142682","email":"rangga@gmail.com"}
+[2025-09-01T19:03:59.852Z] INFO: Database connected successfully!
+[2025-09-01T19:04:50.575Z] INFO: Database connected successfully!
+[2025-09-01T19:04:56.545Z] INFO: Database connected successfully!
+[2025-09-01T19:05:05.473Z] INFO: [USE_CASE] Login successful | Context: {"userId":"d4c505ca-748a-4b23-9e2b-0e1373142682","email":"rangga@gmail.com"}
+[2025-09-01T19:05:38.650Z] INFO: Database connected successfully!
+[2025-09-01T19:05:43.578Z] INFO: [USE_CASE] Login successful | Context: {"userId":"d4c505ca-748a-4b23-9e2b-0e1373142682","email":"rangga@gmail.com"}
+[2025-09-01T19:06:59.368Z] INFO: Database connected successfully!
+[2025-09-01T19:07:03.349Z] INFO: Database connected successfully!
+[2025-09-01T19:08:27.683Z] INFO: Database connected successfully!
